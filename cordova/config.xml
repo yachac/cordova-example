@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="cordova-example.app" version="1.0.0">
+    <name>cordova-example</name>
+    <description>
+        A sample Tabris.js cordova-example application.
+    </description>
+    <author email="yachac@gmail.com" href="https://tabrisjs.com">
+        yachac app
+    </author>
+</widget>
